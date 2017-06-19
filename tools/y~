@@ -1,0 +1,10 @@
+#!/bin/sh
+
+TODOFILE=~/todo.txt
+
+if [ "$#" -gt 0 ]; then
+	cmd=$1
+	shift
+
+	yagtd-cli.py --$cmd "$*" "$TODOFILE"
+fi

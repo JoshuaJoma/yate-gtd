@@ -1,0 +1,84 @@
+Getting Things Done to-do list manager
+######################################
+
+  MiKael Navarro <klnavarro@gmail.com>; April 2010; 0.3.2
+
+.. contents::
+
+Contexts
+========
+
+@home
+-----
+
+- LM revue de presse.
+- Etudier GTD.
+- Ameliorer Rhinote (et contacter l'auteur).
+- Etudier le Mind-mapping.
+
+@computer
+---------
+
+- LM revue de presse.
+- Ameliorer Rhinote (et contacter l'auteur).
+- Scrawl-it (becquet = 12.7x7.7, 7.5x7.5; gtk, wxwin).
+
+@everywhere
+-----------
+
+- Appliquer la methode GTD.
+
+@online
+-------
+
+
+
+Projects
+========
+
+p:MindMapping
+-------------
+
+- Etudier le Mind-mapping.
+
+p:GTD
+-----
+
+- Etudier GTD.
+- Ameliorer Rhinote (et contacter l'auteur).
+- Scrawl-it (becquet = 12.7x7.7, 7.5x7.5; gtk, wxwin).
+
+p:Doc
+-----
+
+- LM revue de presse.
+
+
+Statuses
+========
+
+!someday
+--------
+
+- Ameliorer Rhinote (et contacter l'auteur).
+
+!waitingfor
+-----------
+
+- LM revue de presse.
+
+!Next
+-----
+
+- Etudier GTD.
+- Etudier le Mind-mapping.
+
+
+References
+==========
+
+ref:GTD
+-------
+
+
+

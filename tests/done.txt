@@ -1,0 +1,5 @@
+notes (DB). @computer p:GTD ref:GTD U:2 I:3 C:100 T:1H S:2006-10-30
+pyGTD, DevTodo, todotxt. @home @computer p:GTD ref:GTD U:4 I:4 C:100 T:6H S:2006-10-30
+Notes Tomboy: desktop note taking program using wiki style. @computer p:GTD ref:GTD U:1 I:3 C:100 T:1H S:2006-10-30
+KNotes (KDE), Pense-bete (GNOME). @computer p:GTD ref:GTD U:2 I:3 C:100 T:20M S:2006-10-30
+Imprimer les tutoriaux. @computer @online p:MindMapping U:2 I:3 C:100 T:10M S:2006-11-06 E:2006-11-22
